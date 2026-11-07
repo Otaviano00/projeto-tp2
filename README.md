@@ -30,4 +30,4 @@ O desenvolvimento adota metodologias ágeis (**Scrum**, **Kanban** e **XP**), al
 * **Gerador de Documentação:**
 * **Gestão e Controle de Versão:** `Git` e `Github`
 * **Apoio de IAs e Ferramentas Auxiliares:** `Gemini`
-
+ 
